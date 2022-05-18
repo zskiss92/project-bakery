@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Flour",
+    "cost": "5",
+    "amount": "10"
+  },
+  {
+    "name": "Yeast",
+    "cost": "2",
+    "amount": "15"
+  },
+  {
+    "name": "Oil",
+    "cost": "10",
+    "amount": "12"
+  },
+  {
+    "name": "Salt",
+    "cost": "1",
+    "amount": "20"
+  },
+  {
+    "name": "Sugar",
+    "cost": "1",
+    "amount": "15"
+  }
+]
